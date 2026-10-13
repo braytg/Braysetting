@@ -1,8 +1,8 @@
 Package: com.bray.braysettings
 Name: BraySettings
-Version: 0.1.0
+Version: 0.2.0
 Architecture: iphoneos-arm64
-Description: Experimental dark Settings styling for iOS 16.
+Description: Experimental dark Settings appearance for iOS 16.6 (Dopamine rootless).
 Maintainer: Bray
 Author: Bray
 Section: Tweaks
